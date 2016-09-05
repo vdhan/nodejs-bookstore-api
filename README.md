@@ -1,1 +1,1 @@
-# nodejs-bookstore-api
+# Nodejs Bookstore API

@@ -1,0 +1,11 @@
+{
+	"name": "book-store",
+	"version": "1.0.0",
+	"license": "AGPL-3.0",
+	"dependencies": {
+		"express": "",
+		"mongoose": "",
+		"node-uuid": "",
+		"body-parser": ""
+	}
+}
